@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "DSA_Programs"
+name = "rust_basic_to_advance"
 version = "0.1.0"
