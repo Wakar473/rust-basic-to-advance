@@ -13,7 +13,7 @@ fn print_labeled_measurement(value: i32, unit_label: char) {
 }
 
 fn print_name(first_name:&str,age:i32,school:&str){
-    println!("my details are : {} {} {}", first_name,age,school);
+    println!("my details = {} age is {}, and school is {}", first_name,age,school);
 }
 
 fn print_company(company_name:&str ,emp_atr:i32){

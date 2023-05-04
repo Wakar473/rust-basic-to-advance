@@ -5,7 +5,10 @@
 // pub mod pattern;
 // pub mod mutable;
 // pub mod parameter;
-pub mod compound_types;
+// pub mod compound_types;
+// pub mod celsius_to_farenhite;
+// pub mod loops;
+pub mod ownership_concept;
 fn main() {
 
     // println!("Hello, world!");
@@ -17,6 +20,10 @@ fn main() {
       // pattern::patternfile();
     //  while_loop::whiles();
     // parameter::para();
-    compound_types::   array();//tuple();
-    compound_types::   tuple();
+    // compound_types::   array();//tuple();
+    // compound_types::   tuple();
+    // loops::loop_condition();
+    // celsius_to_farenhite::celsius();
+    ownership_concept::clone();
+    
   }
