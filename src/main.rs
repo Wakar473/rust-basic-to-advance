@@ -8,7 +8,8 @@
 // pub mod compound_types;
 // pub mod celsius_to_farenhite;
 // pub mod loops;
-pub mod ownership_concept;
+// pub mod ownership_concept;
+pub mod references_borrowing;
 fn main() {
 
     // println!("Hello, world!");
@@ -24,6 +25,6 @@ fn main() {
     // compound_types::   tuple();
     // loops::loop_condition();
     // celsius_to_farenhite::celsius();
-    ownership_concept::clone();
-    
+    // ownership_concept::owner();
+    references_borrowing::borrow();
   }
