@@ -26,5 +26,5 @@ fn main() {
     // loops::loop_condition();
     // celsius_to_farenhite::celsius();
     // ownership_concept::owner();
-    references_borrowing::borrow();
+    references_borrowing::borrow_reference();
   }
