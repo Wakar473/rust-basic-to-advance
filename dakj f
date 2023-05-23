@@ -1,0 +1,73 @@
+[33mcommit 05c114a5c2646c1b50f5b554299e86c5c4dc516e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Wakar Seraj Khan <wakar473@gmail.com>
+Date:   Tue May 23 18:23:38 2023 +0530
+
+    Revert "imp of enum"
+    
+    This reverts commit 5d3c06c92b0cae83a5ccc8ee98de0a71da337aa4.
+
+[33mcommit 5d3c06c92b0cae83a5ccc8ee98de0a71da337aa4[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Wakar Seraj Khan <wakar473@gmail.com>
+Date:   Tue May 23 18:07:32 2023 +0530
+
+    imp of enum
+
+[33mcommit 7dfdc37a93759b56c9cd993120228391f4d40aae[m
+Author: Wakar Seraj Khan <wakar473@gmail.com>
+Date:   Mon May 22 18:26:15 2023 +0530
+
+    borrow concept
+
+[33mcommit 7802b20040d147f90b143afdff1d62f7fda43da8[m
+Author: Wakar Seraj Khan <wakar473@gmail.com>
+Date:   Mon May 8 18:40:39 2023 +0530
+
+    concept of reference&deep copy
+
+[33mcommit 013421ac87e26bceb66aceaf3f20add3ad993f74[m
+Author: Wakar Seraj Khan <wakar473@gmail.com>
+Date:   Fri May 5 18:36:55 2023 +0530
+
+    concept of ownership
+
+[33mcommit e7cc9cf02911470fcc8d2548bf0d4fe5b8332fec[m
+Author: Wakar Seraj Khan <wakar473@gmail.com>
+Date:   Thu May 4 19:00:33 2023 +0530
+
+    added types of loops
+
+[33mcommit 48d5fc36a4a7cb693f058c8274cc829a2d8d8e7f[m
+Author: Wakar Seraj Khan <wakar473@gmail.com>
+Date:   Wed May 3 18:55:47 2023 +0530
+
+    compound type
+
+[33mcommit 50cf4ece16df6c8115b450460133b6ba1017ecab[m
+Author: Wakar Seraj Khan <wakar473@gmail.com>
+Date:   Tue May 2 19:06:33 2023 +0530
+
+    deleted target folder
+
+[33mcommit 09bb216541304b447a046146eba5e503f342ebe4[m
+Author: Wakar Seraj Khan <wakar473@gmail.com>
+Date:   Tue May 2 19:04:09 2023 +0530
+
+    initial changes
+
+[33mcommit 0798a3265921b19a6cd0e010daf7e590e61d4158[m
+Author: Wakar Seraj Khan <wakar473@gmail.com>
+Date:   Tue May 2 19:00:58 2023 +0530
+
+    initial changes
+
+[33mcommit b8272577bbd7c9b2bd8b80d0d05df35940dbe8e4[m
+Author: Wakar Seraj Khan <wakar473@gmail.com>
+Date:   Tue May 2 18:50:01 2023 +0530
+
+    adding mutable and parameter
+
+[33mcommit ac5e838b4d7307960d944bfe8dc06f3246219856[m
+Author: Wakar Seraj Khan <wakar473@gmail.com>
+Date:   Mon May 1 18:02:31 2023 +0530
+
+    intial change
