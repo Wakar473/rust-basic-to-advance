@@ -9,7 +9,8 @@
 // pub mod celsius_to_farenhite;
 // pub mod loops;
 // pub mod ownership_concept;
-pub mod references_borrowing;
+// pub mod references_borrowing;
+pub mod enums;
 fn main() {
 
     // println!("Hello, world!");
@@ -26,5 +27,6 @@ fn main() {
     // loops::loop_condition();
     // celsius_to_farenhite::celsius();
     // ownership_concept::owner();
-    references_borrowing::borrow_reference();
+    // references_borrowing::borrow_reference();
+       enums::enumeration();
   }

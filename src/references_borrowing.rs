@@ -41,7 +41,7 @@ let s1 = String::from("hell"); // declare a variable s1 and assign it a String
 
 
 
-            //Borrowing
+            //Borrowing-------------------------
             //Ownership: str is an immutable string slice that can be borrowed from other string data, 
             // while String is an owned string that has full ownership over its data.
 
@@ -51,16 +51,16 @@ let s1 = String::from("hell"); // declare a variable s1 and assign it a String
                 //change(s);
                 change(&mut s);
             }
-            
-// some_string: It refers to a mutable String variable or a mutable String object.
-// push_str(): It is a method provided by the String type in Rust. 
-// The push_str() method appends the contents of the provided string slice (&str)
-//  or String to the end of the existing string, modifying the original string.
+
                fn change(some_string: &mut String) {
                 some_string.push_str(", wakar");
                 println!("{}",some_string)
                 
-                
+                            
+// some_string: It refers to a mutable String variable or a mutable String object.
+// push_str(): It is a method provided by the String type in Rust. 
+// The push_str() method appends the contents of the provided string slice (&str)
+//  or String to the end of the existing string, modifying the original string.
             
 }
 
